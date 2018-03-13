@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Idle World</string>
-    <string name="title_activity_login">Войти</string>
+    <string name="title_activity_login">Ввійти</string>
 
     <!-- Values -->
     <string name="zero">0</string>
@@ -10,101 +10,101 @@
     <string name="x">x</string>
 
     <!-- Button states -->
-    <string name="cancel">Отмена</string>
-    <string name="close">Закрыть</string>
-    <string name="ok">OK</string>
+    <string name="cancel">Скасувати</string>
+    <string name="close">Закрити</string>
+    <string name="ok">Добре</string>
 
     <!-- Failed state restore -->
-    <string name="failed_restore_title">Извиняемся</string>
-    <string name="failed_restore_body">Ваша вселенная была сброшена из за крупных изменений в игре. В будущих версиях мы сделаем всё возможное, чтобы избежать этой ситуации.</string>
+    <string name="failed_restore_title">Вибачте</string>
+    <string name="failed_restore_body">Ваш всесвіт було видалено через глобальні зміни в грі. В майбутніх версіях мі зробимо все можливе, щоб уникнути такої ситуації.</string>
 
     <!-- Validation -->
-    <string name="username_invalid">Неверный логин, допустимы только буквы и цифры</string>
-    <string name="username_taken">Имя занято</string>
-    <string name="username_empty">Имя свободно</string>
+    <string name="username_invalid">Логін невірний, доступні тільки букви и цифри</string>
+    <string name="username_taken">Ім'я зайнято</string>
+    <string name="username_empty">Ім'я вільне</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Имя пользователя</string>
-    <string name="prompt_password">Пароль (необязательно)</string>
-    <string name="action_sign_in">Войти</string>
-    <string name="login_to_see_highscores">Войти в таблицу лидеров</string>
-    <string name="you_can_enter_password">Вы можете использовать свой пароль для входа на других устройствах </string>
-    <string name="username_will_register">Имя пользователя будет зарегистрировано если оно не использовалось ранее </string>
+    <string name="prompt_email">Ім'я користувача</string>
+    <string name="prompt_password">Пароль (необов'язково)</string>
+    <string name="action_sign_in">Ввійти</string>
+    <string name="login_to_see_highscores">Ввійти в таблицю лідерів</string>
+    <string name="you_can_enter_password">Ви можете використати свій пароль для входу на інших пристроях </string>
+    <string name="username_will_register">Ім'я користувача буде зареєстровано, якщо воно не зайняте </string>
 
     <!-- Strings related to instructions -->
-    <string name="if_element_glows">Выделенные зелёным элементы можно купить за <b>Ресурсы</b>.</string>
-    <string name="each_element">Каждый элемент дает вам <b>Ресурсы</b>, накапливайте их</string>
-    <string name="grow_your_world">Вырасти свой мир от <b>Атомов</b> до целой <b>Галактики</b></string>
-    <string name="more_energy_you_have">Чем больше вы потратите, тем больше вы заработаете </string>
-    <string name="more_resources">Есть много ресурсов, которые вам нужно собрать </string>
-    <string name="last_part">Последняя часть</string>
-    <string name="new_elements_construction">Вы можете разблокировать новые элементы в разделе строительства </string>
-    <string name="world_grows_idle">Ваш мир продолжает расти, даже если вы не в игре! </string>
-    <string name="check_leaderboard">Не забывайте проверять свой прогресс и таблицу лидеров </string>
-    <string name="build_it">Построить мир </string>
+    <string name="if_element_glows">Виділені зеленим елементи можна купити за <b>Ресурси</b>.</string>
+    <string name="each_element">Кожен елемент дає Вам <b>Ресурси</b>, накопичуйте їх, щоб створити найбільший всесвіт</string>
+    <string name="grow_your_world">Створіть власний світ від <b>Атомів</b> до цілої <b>Галактики</b></string>
+    <string name="more_energy_you_have">Чим більше Ви потратите, тим більше Ви заробите </string>
+    <string name="more_resources">Існує багато <b>ресурсів</b>, котрі Вам потрібно зібрати </string>
+    <string name="last_part">Остання частина</string>
+    <string name="new_elements_construction">Ви можете розблокувати нові елементи в розділі <b>будівництва</b> </string>
+    <string name="world_grows_idle">Ваш світ продовжуватиме рости, навіть якщо Ви не у грі! </string>
+    <string name="check_leaderboard">Не забувайте перевіряти свій прогрес і таблицю лідерів! </string>
+    <string name="build_it">Побудувати світ </string>
     <string name="skip"><![CDATA[Skip >>]]></string>
-    <string name="welcome">Добро пожаловать</string>
-    <string name="universe_awaits">Ваша вселенная ждёт</string>
+    <string name="welcome">Ласкаво просимо!</string>
+    <string name="universe_awaits">Ваш всесвіт чекає на вас</string>
     <string name="down_arrow">▼</string>
-    <string name="next">Далее</string>
+    <string name="next">Далі</string>
 
     <!-- Settings activity -->
-    <string name="view_instructions">Помощь по игре</string>
-    <string name="instructions">Инструкция</string>
-    <string name="background_music">Музыка</string>
-    <string name="energy_display_type">Тип отображения ресурсов </string>
-    <string name="long_numbers">Длинные числа</string>
-    <string name="scientific_notation">Научное значение </string>
-    <string name="preview_small">Маленькое число:</string>
-    <string name="preview_big">Большое число:</string>
-    <string name="cloud_sync_coming_soon">Облачное сохранение</string>
-    <string name="change_it_display_type">Вы можете так же нажать на любое число, чтобы изменить вариант отображения.</string>
-    <string name="thanks_for">Особые благодарности:</string>
-    <string name="icons_source_icons8">Иконки: Icons8</string>
-    <string name="image_source_unsplash">Изображения: Unsplash</string>
-    <string name="language">Язык</string>
-    <string name="translation_halil_kopuz">Перевод на турецкий: <b>Halil Kopuz, Deniz Kağan Dursun</b></string>
-    <string name="translation_tony">Перевод на французский: <b>Tony A. "Gorska"</b></string>
-    <string name="translation_robert">Перевод на немецкий: <b>Robert B. Lavars</b>, <b>Thomas Kupka</b></string>
-    <string name="translation_vasil">Перевод на русский: <b>VasilRaven, Reindee</b></string>
-    <string name="translation_zsemi">Перевод на венгерский: <b>zsemi02</b></string>
-    <string name="translation_joao">Перевод на португальский: <b>João Paulo</b></string>
-    <string name="translation_thedashcolour">Перевод на итальянский: <b>Thedashcolour</b></string>
-    <string name="translation_dejan">Перевод на башкирский: <b>Dejan Misic</b></string>
-    <string name="translation_majestangel">Перевод на испанский: <b>MajestAngel</b></string>
-    <string name="translation_roman">Перевод на чешский: <b>Roman Vietze</b></string>
-    <string name="translation_majida">Перевод на китайский: <b>Majida Whale</b></string>
+    <string name="view_instructions">Допомога по грі</string>
+    <string name="instructions">Інструкція</string>
+    <string name="background_music">Музика</string>
+    <string name="energy_display_type">Тип відображення ресурсів </string>
+    <string name="long_numbers">Довгі числа</string>
+    <string name="scientific_notation">Научні числа </string>
+    <string name="preview_small">Маленьке число:</string>
+    <string name="preview_big">Велике число:</string>
+    <string name="cloud_sync_coming_soon">Хмарне сховище</string>
+    <string name="change_it_display_type">Ви можете також натиснути на любе число, щоб змінити варіант відображення.</string>
+    <string name="thanks_for">Особливі подяки:</string>
+    <string name="icons_source_icons8">Іконки: Icons8</string>
+    <string name="image_source_unsplash">Зображення: Unsplash</string>
+    <string name="language">Мови</string>
+    <string name="translation_halil_kopuz">Переклад на турецький: <b>Halil Kopuz, Deniz Kağan Dursun</b></string>
+    <string name="translation_tony">Переклад на французьку: <b>Tony A. "Gorska"</b></string>
+    <string name="translation_robert">Переклад на німецьку: <b>Robert B. Lavars</b>, <b>Thomas Kupka</b></string>
+    <string name="translation_vasil">Переклад на російську: <b>VasilRaven, Reindee</b></string>
+    <string name="translation_zsemi">Переклад на венгерску: <b>zsemi02</b></string>
+    <string name="translation_joao">Переклад на португальску: <b>João Paulo</b></string>
+    <string name="translation_thedashcolour">Переклад на італійську: <b>Thedashcolour</b></string>
+    <string name="translation_dejan">Переклад на башкирську: <b>Dejan Misic</b></string>
+    <string name="translation_majestangel">Переклад на іспанську: <b>MajestAngel</b></string>
+    <string name="translation_roman">Переклад на чешську: <b>Roman Vietze</b></string>
+    <string name="translation_majida">Переклад на китайську: <b>Majida Whale</b></string>
 
     <!-- Black hole dialog -->
-    <string name="blackhole_confirm">Вы уверены?</string>
-    <string name="blackhole_warning_body">Ваш доход возрастет, но вселенная будет стёрта. Ваш счёт сохранится.</string>
-    <string name="blackhole_too_slow">Слишком медленно? Вычислить множитель чёрной дыры</string>
-    <string name="blackholeMultiplikator">Множитель чёрной дыры</string>
+    <string name="blackhole_confirm">Ви впевнені?</string>
+    <string name="blackhole_warning_body">Ваш прибуток зросте, але Ваш всесвіт буде скинуто. Ваш рахонок буде збережено.</string>
+    <string name="blackhole_too_slow">Надто повільно? Вирахувати множник чорної діри</string>
+    <string name="blackholeMultiplikator">Множник чорної діри</string>
 
     <!-- Construction results -->
-    <string name="bought_body">Поздравляем, новый элемент был создан. </string>
-    <string name="bought_title">Создано</string>
-    <string name="not_enough_energy_body">Вам нужно собрать больше ресурсов, чтобы создать это</string>
-    <string name="not_enough_energy_title">Не хватает ресурсов </string>
-    <string name="missing_requirements_body">Некоторые требования не были выполнены, проверьте, достаточно ли ресурсов</string>
-    <string name="missing_requirements_title">Требования не выполнены</string>
-    <string name="unexpected_body">Неожиданное создание, вселенная всё ещё растёт</string>
-    <string name="unexpected_title">Неожиданное название</string>
+    <string name="bought_body">Вітаємо, новий елемент створено!. </string>
+    <string name="bought_title">Створено</string>
+    <string name="not_enough_energy_body">Вам потрібно зібрати більше ресурсів, щоб створити це</string>
+    <string name="not_enough_energy_title">Недостатньо ресурсів </string>
+    <string name="missing_requirements_body">Декотрі вимоги не було виконано, перевірте, чи достатньо у Вас ресурсів</string>
+    <string name="missing_requirements_title">Вимоги не виконані</string>
+    <string name="unexpected_body">Неочікуване створення, всесвіт все ще росте</string>
+    <string name="unexpected_title">Неочікувана назва</string>
 
     <!-- Ads -->
-    <string name="income_doubled">Ваш доход удвоен</string>
-    <string name="ad_unavailable_body">В настоящее время пространственно-временной континуум под угрозой исчезновения, прыжок во времени временно недоступен. Повторите попытку позже.</string>
-    <string name="ad_unavailable_title">Опасность.</string>
+    <string name="income_doubled">Ваш прибуток подвоєно на короткий термін</string>
+    <string name="ad_unavailable_body">На данний момент Ваш всесвіт на відпочинку, від стрибка в часі тимчасово відмовляється. Спробуйте ще раз пізніше.</string>
+    <string name="ad_unavailable_title">Небезпека! космічні пірати!.</string>
 
     <!-- Black hole activity -->
-    <string name="multiply_your_income">Увеличьте свой доход!</string>
-    <string name="current_income_multiplier">Текущий множитель дохода: x</string>
-    <string name="new_income_multiplier">Новый множитель дохода: x</string>
-    <string name="universe_big_enough">Если ваша Вселенная достаточно большая, она может разрушиться и быть поглощена Чёрной Дырой. Ваш новый доход будет рассчитываться в зависимости от размера вашей Вселенной</string>
-    <string name="universe_disappear">Вся ваша Вселенная исчезнет</string>
-    <string name="score_will_remain">Ваш счёт сохранится</string>
-    <string name="all_parts_removed">Все части Вселенной будут удалены. Ваша игра начнётся заново, но любой доход будет увеличен на множитель Чёрной Дыры</string>
-    <string name="collapse_universe">Коллапс Вселенной</string>
+    <string name="multiply_your_income">Збільште свій прибуток!</string>
+    <string name="current_income_multiplier">Теперішній множник прибутку: x</string>
+    <string name="new_income_multiplier">Новий множник прибутку: x</string>
+    <string name="universe_big_enough">Якщо Ви готові, то можна викликати чорну діру, котра поглине Ваш світ , і збільшить прибуток.(Приріст прибутку залежить від розмірів знищуваного всесвіту)</string>
+    <string name="universe_disappear">Ваш всесвіт буде знищено</string>
+    <string name="score_will_remain">Ваш рахунок збережеться</string>
+    <string name="all_parts_removed">Ніщо у вашому світі не вціліє. Ваша гра начнеться заново, але любий прибуток буде збільшено на множник Чорної Діри</string>
+    <string name="collapse_universe">Викликати чорну діру</string>
 
     <!-- Construction activity -->
     <string name="total_energy">Общий ресурс:</string>
